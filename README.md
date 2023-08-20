@@ -3,7 +3,12 @@
 Next Chat is a free and open-source admin dashboard template built on **Next.js and Tailwind CSS** providing developers with everything they need to create a feature-rich and data-driven: back-end, dashboard, or admin panel solution for any sort of web project.
 
 
-### [✨ Visit Website](https://tailadmin.com/)
+### ✨ Preview Website
+- Login
+![Login](/screenshots/screen2.png)
+
+- Dashboard
+![Dashboard](/screenshots/screen1.png)
 
 
 #### [Next Chat](https://github.com/JetQin/nextjs-dash)
