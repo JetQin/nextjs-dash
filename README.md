@@ -5,6 +5,7 @@ Next Chat is a free and open-source admin dashboard template built on **Next.js 
 
 ### ✨ Preview Website
 - Login
+
 ![screen2](https://github.com/JetQin/nextjs-dash/assets/834055/c7eb00f8-9c6b-4d87-86b3-5bbf5c9cb43f)
 
 - Dashboard
